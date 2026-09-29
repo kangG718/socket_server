@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server:socket server v0.1
+Content-Type: text/plain
+
+<html>
+<head>
+<title>socket server</title>
+</head>
+<body>I've got your message</body>
+</html>
